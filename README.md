@@ -110,7 +110,7 @@ A **6-DOF biped walking robot using Arduino Mega** was assembled as the final ou
 
 The completed system integrates six servo motors, a servo shield, a microcontroller, and a planned walking sequence.
 
-! [6-DOF Biped Walking Robot](https://github.com/GoneRamuCena/Biped-Robot/blob/5e02fa5b696b822cc8d95d87eb50490072252f1a/Project%20Details/Biped%20Robot.png)
+![6-DOF Biped Walking Robot](https://github.com/GoneRamuCena/Biped-Robot/blob/5e02fa5b696b822cc8d95d87eb50490072252f1a/Project%20Details/Biped%20Robot.png)
 
 
 ## 🚀 Future Improvements
