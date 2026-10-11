@@ -125,7 +125,9 @@ Potential improvements include:
 
 
 These are proposed enhancements, not features claimed to be implemented in the current version.
-For indepth project details go through the Project Details section and see the pdf
+
+
+**Note : For indepth project details go through the Project Details section and see the pdf**
 
 
 
