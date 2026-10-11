@@ -123,6 +123,8 @@ Potential improvements include:
 * Integrating computer vision for environmental perception.
 * Investigating neural networks and machine learning for adaptive robot control.
 
+* Note : For indepth project details go through the Project Details section and see the pdf
+
 
 These are proposed enhancements, not features claimed to be implemented in the current version.
 
