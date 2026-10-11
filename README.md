@@ -113,6 +113,9 @@ The completed system integrates six servo motors, a servo shield, a microcontrol
 ![6-DOF Biped Walking Robot](https://github.com/GoneRamuCena/Biped-Robot/blob/5e02fa5b696b822cc8d95d87eb50490072252f1a/Project%20Details/Biped%20Robot.png)
 
 
+🎥 Project Demo Video
+https://www.linkedin.com/posts/gone-ramu-2155092b2_project-biped-walking-robot-project-ugcPost-7497627939728158720-TytX/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEsumfEBdfpbRoL04rRFCpsATJalW3cUVUA
+
 ## 🚀 Future Improvements
 
 Potential improvements include:
@@ -127,7 +130,7 @@ Potential improvements include:
 These are proposed enhancements, not features claimed to be implemented in the current version.
 
 
-**Note : For indepth project details go through the Project Details section and see the pdf**
+**Note : For more project details go through the Project Details section and see the pdf**
 
 
 
